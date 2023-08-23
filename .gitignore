@@ -1,0 +1,5 @@
+*
+!/.gitignore
+!/accelerometer.c
+!/Circuit.dsn
+!/README.md
