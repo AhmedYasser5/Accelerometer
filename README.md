@@ -12,7 +12,7 @@ where $C$ is the capacitance in $pF$ and $A$ is the acceleration in $m/s^2$.
 
 $$V_c = 1 - e^{t/RC}$$
 
-## Design criterion:
+## Design criterion
 - An $RC$ circuit is used with a resistor of $400\ kOhm$ to slow down the rate of charge/discharge.
 - A comparator is used to capture the time at which the voltage exceeds the voltage at the time constant.
 - The output of the comparator is sent to the capture module of timer1.
