@@ -16,7 +16,7 @@ $$V_c = 1 - e^{t/RC}$$
 
 ![Accelerometer Circuit](Circuit.webp)
 
-## Design criterion
+## Design Criterion
 
 - An $RC$ circuit is used with a resistor of $400\ kOhm$ to slow down the rate of charge/discharge.
 
